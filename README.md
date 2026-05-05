@@ -1,6 +1,6 @@
 # Expense Tracker
 
-**Автор:** Иван Иванов
+**Автор:** Самойлов Арсений
 **Вариант:** Expense Tracker (Трекер расходов)
 **Дата сдачи:** 05.05.2026
 
@@ -22,7 +22,7 @@ Expense Tracker — это графическое приложение для о
 ## Как запустить
 
 ```bash
-git clone https://github.com/ваш-логин/expense-tracker.git
+git clone https://github.com/aquma12/expense-tracker.git
 cd expense-tracker
 python app.py
 ```
@@ -80,4 +80,4 @@ expense-tracker/
 
 ## Ссылка на GitHub
 
-https://github.com/ваш-логин/expense-tracker
+https://github.com/aquma12/expense-tracker
